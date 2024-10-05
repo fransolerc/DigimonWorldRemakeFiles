@@ -1,3 +1,3 @@
 # Digimon World Remake (Files)
 
-![Pantalla de Introducción](https://raw.githubusercontent.com/fransolerc/DigimonWorldRemake/main/data/ui/Intro.PNG)
+![Intro](https://github.com/fransolerc/DigimonWorldRemake/blob/main/assets/ui/Menu/Intro.PNG)
