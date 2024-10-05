@@ -1,0 +1,9 @@
+Begin Object Class=/Script/Foliage.FoliageType_InstancedStaticMesh Name="PalmonFlower_FoliageType" ExportPath="/Script/Foliage.FoliageType_InstancedStaticMesh'/Game/StaticMeshes/NativeForest/PalmonFlower_FoliageType.PalmonFlower_FoliageType'"
+   Mesh="/Script/Engine.StaticMesh'/Game/StaticMeshes/NativeForest/PalmonFlower.PalmonFlower'"
+   UpdateGuid=D498C0A84CD5369D9AD90C9C6F3F6476
+   MeshBounds=(Origin=(X=0.406452,Y=7.725903,Z=26.460903),BoxExtent=(X=37.371651,Y=32.401199,Z=33.760700),SphereRadius=41.475971)
+   LowBoundOriginRadius=(X=-0.154176,Y=-0.311271,Z=2.595766)
+   ScaleCurve=(EditorCurveData=())
+   DensityFalloff=(FalloffCurve=(EditorCurveData=()))
+   bIncludeInHLOD=False
+End Object
